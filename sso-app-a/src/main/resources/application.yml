@@ -1,0 +1,6 @@
+server:
+  port: 9001
+
+local_server: http://localhost:9001
+
+sso_server: http://localhost:9000/sso

@@ -1,0 +1,10 @@
+server:
+  port: 9000
+
+jwt:
+  # token过期时间：30分钟
+  expireTime: 30000
+  # 更新token时间：1小时
+  refreshTime: 60000
+  # token加密密钥
+  secret: 123456
